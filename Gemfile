@@ -13,4 +13,5 @@ gem "rubocop", "~> 0.81.0"
 
 group :test do
   gem "webmock"
+  gem "pry"
 end
