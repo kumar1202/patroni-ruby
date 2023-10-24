@@ -15,6 +15,7 @@ module Patroni
       def primary?
         head_method("/primary")
       end
+      
 
       def standby_leader?
         head_method("/standby-leader")
