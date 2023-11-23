@@ -1,4 +1,4 @@
-# Patroni
+# [WIP] Patroni
 
 Ruby Client for Patroni Cluster Management APIs with added support for DCS queries.
 
